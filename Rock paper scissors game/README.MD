@@ -30,14 +30,6 @@ This is a simple command-line game of Rock, Paper, Scissors where you can challe
 - Add a graphical user interface.
 - Implement best-of-three or best-of-five rounds.
 
-## Contribution
 
-Feel free to fork the repository and submit pull requests. All contributions are welcome.
-
-## License
-
-MIT License.
-
----
 
 Enjoy the game and may the odds be ever in your favor!
