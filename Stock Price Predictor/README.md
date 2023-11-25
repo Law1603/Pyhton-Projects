@@ -1,5 +1,5 @@
 # Stock-Price-Predictor
-This program predicts stock prices using LSTM (Long Short-Term Memory) neural networks. The data is fetched using the `yfinance` library which connects to Yahoo Finance.
+This program predicts stock prices using LSTM (Long Short-Term Memory) neural networks. The data is fetched using the `yfinance` library which connects to Yahoo Finance. To view this code https://github.com/Law1603/Pyhton-Projects/blob/main/Stock%20Price%20Predictor/Stock%20Price%20Predictor.py
 
 ## Steps Taken to Create this Project
 
